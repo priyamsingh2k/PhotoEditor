@@ -1,0 +1,39 @@
+#imageEditor {
+    margin:auto;
+    padding:20px;
+    border:12px solid #2cff96;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    border-radius:8px;
+    background-color:#ababab;
+}
+
+#editorContainer {
+    display:block;
+    overflow: auto;
+    width: 800px;
+    height: 400px;
+}
+
+#editor {
+    display:block;
+    margin: auto;
+}
+
+#toolbar {
+    display:block;
+    margin-right: 50px;
+}
+
+#resizer {
+    border:2px dashed #000
+}
+
+#toolbar button {
+    padding: 10px 20px 10px 20px;
+}
+
+#navbar navbar-light{
+    background-image: url("img/bluetry.jpg");
+    background: url('img/bluetry.jpg');
+}
